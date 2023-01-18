@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush.
 - 👀 I’m interested in building new things.
-- 🌱 I’m currently learning Java.  
+- 🌱 I'm front-end developer.  
 - 💞️ I’m looking to collaborate on projects in Java or Python.
 - 📫 How to reach me - https://www.linkedin.com/in/ayush-shakya-0b993961/
 
